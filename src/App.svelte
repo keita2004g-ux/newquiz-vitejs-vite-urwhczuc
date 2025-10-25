@@ -1,1 +1,9 @@
-<script>import "./app.css";</script>
+<main>
+  <div>メニューバー</div>
+  <div>問題</div>
+  <div>
+    <button>選択肢１</button>
+    <button>選択肢２</button>
+    <button>選択肢３</button>
+  </div>
+</main>
